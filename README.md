@@ -1,1 +1,1 @@
-This is erikboren's first git project!
+This is erikgranby's first git project!
